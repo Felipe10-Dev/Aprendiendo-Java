@@ -1,0 +1,82 @@
+/*
+=========================
+Estructuras Condicionales
+=========================
+*/
+
+// IF -> Se Usa Cuando Quieres Ejecutar Algo Solo Si Se Cumple Una Condición
+
+
+Estructura:
+
+if (condicion) {
+
+
+}
+
+
+// IF + ELSE -> Cuando Quieres Que El Programa Haga Una Cosa U Otra
+
+
+Estructura: 
+
+if (condicion) {
+
+
+} else {
+
+
+}
+
+
+// Else IF -> Cuando Tienes Varias Condiciones Posibles
+
+
+Estructura: 
+
+if (condicion) {
+
+
+} else if (condicion) {
+
+
+} else if (condicion) {
+
+
+} else {
+
+
+}
+
+
+
+// Switch -> Se Usa Cuando Tienes Muchos Casos Posibles
+
+
+Estructura: 
+
+Switch (variable) {
+
+case 1: 
+break; 
+
+case 2: 
+break; 
+
+case 3:
+break; 
+
+default: 
+
+
+}
+
+
+
+
+// Operador Ternario -> Es Una Forma Mas Compacta De Escribir IF
+
+
+Estructura: 
+
+condicion ? valor_si_true : valor_si_false; 
