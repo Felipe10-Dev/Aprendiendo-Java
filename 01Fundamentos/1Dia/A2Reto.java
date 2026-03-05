@@ -5,7 +5,7 @@ public class A2Reto {
 
         // Definimos Las Variables
         int a = 10;
-        int b = 2;
+        int b = 5;
 
         // Variable Que Almacenara Todos Los Resultados
         int resultado;
