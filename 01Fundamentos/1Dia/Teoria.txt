@@ -1,0 +1,75 @@
+/* 
+==============
+Tipos De Datos
+==============
+*/
+
+- Los Tipos De Datos Indican Que Tipo De Valor Puede Guardar Una Variable
+- Java Es Fuertemente Tipado, Eso Significa que cada variable debe tener un tipo definido 
+
+
+
+- int -> Guarda Numeros Enteros
+- double -> Guarda Numeros Con Decimales
+- char -> Guarda Un Solo Caracter
+- boolean -> Guarda Valores Logicos
+- String -> Guarda Texto
+
+
+
+
+/*
+=========
+Variables
+=========
+*/
+
+- Una Variable Es Un Espacio En Memoria Donde Guardamos Informacion
+
+
+
+/* 
+==========
+Operadores
+==========
+*/
+
+- Los Operadores Permiten Realizar Operaciones Matematicas O Logicas
+
++ -> Suma
+- -> Resta
+* -> Multiplicacion
+/ -> Division
+% -> Modulo
+
+
+
+
+/* 
+============================
+Conversion De Tipos(Casting)
+============================ 
+*/
+
+
+- Conversion Automatica -> Cuando Pasas De Tipo Pequeño A Grande
+
+
+Example:
+
+int numero = 10; 
+double numeroDecimal = numero; 
+
+
+
+
+- Conversion Manual
+
+
+Example:
+
+double precio = 19.99; 
+int precioEntero = (int) precio; 
+
+
+

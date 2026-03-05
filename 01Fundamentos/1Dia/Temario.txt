@@ -1,0 +1,4 @@
+- Repaso tipos de datos  
+- Variables 
+- Operadores  
+- Conversión de tipos
