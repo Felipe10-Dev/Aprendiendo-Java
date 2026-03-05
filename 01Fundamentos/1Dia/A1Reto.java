@@ -13,7 +13,7 @@ public class A1Reto {
         System.out.println("Nombre = " + nombre);
         System.out.println("Edad = " + edad);
         System.out.println("Altura = " + altura + "mt");
-        System.out.println("Es Estudiante? = " + isStudent);
+        System.out.println("Es Estudiante?  " + isStudent);
 
     }
 
