@@ -5,7 +5,7 @@ public class A3Reto {
 
         // Conversion De Numeros
         // Conversion Manual
-        double precio = 29.99;
+        double precio = 39.99;
         int precioEntero = (int) precio;
 
         // Imprimimos
