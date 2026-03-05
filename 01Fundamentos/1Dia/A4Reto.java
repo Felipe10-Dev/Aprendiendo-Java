@@ -5,7 +5,7 @@ public class A4Reto {
 
         // Definir Variables
         int a = 7;
-        int b = 2;
+        int b = 4;
 
         // Variable De Resultado
         int resultadoEntero = a + b;
