@@ -36,11 +36,26 @@ Operadores
 
 - Los Operadores Permiten Realizar Operaciones Matematicas O Logicas
 
+
+- Operadores Aritmeticos
+
 + -> Suma
 - -> Resta
 * -> Multiplicacion
 / -> Division
 % -> Modulo
+
+
+
+- Operadores Relacionales
+
+== -> Igual
+!= -> Diferente
+> -> Mayor Que
+< -> Menor Que
+>= -> Mayor O Igual Que
+<= -> Menor O Igual Que
+
 
 
 
