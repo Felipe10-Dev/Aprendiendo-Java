@@ -1,0 +1,53 @@
+/*
+=============
+Bucles(Loops)
+=============
+*/
+
+
+
+- For -> El For Se Usa Cuando Sabes Cuantas Vces Quieres Repetir Algo
+
+
+Estructura: 
+
+for (inicializacion; condicion; incremento) {
+
+Codigo Que Se Repite
+
+}
+
+
+
+
+- While -> El While Se Usa Cuando No Sabes Exactamente Cuantas Veces Se Repetira, La Diferencia Es Que La Variable Se Incrementa Dentro Del Bucle
+
+
+Estructura: 
+
+while (condicion) {
+
+// Codigo Que Se Repite
+
+}
+
+
+
+
+- Do While -> Siempre Se Ejecuta Al Menos Una Vez
+
+do {
+
+
+} while (condicion); 
+
+
+
+
+/* 
+Diferencia Rapida
+
+- for -> Cuando Sabes Cuántas Repeticiones
+- While -> Cuando Depende De Una Condicion
+- Do While -> Cuando Debe Ejecutarse Minimo Una Vez 
+*/
