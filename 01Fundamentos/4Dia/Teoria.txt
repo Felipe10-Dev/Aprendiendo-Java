@@ -1,0 +1,80 @@
+Array -> Es Una Estructura Que Permite Guardar Varios Valores Del Mismo Tipo, Cada Posicion Se Llama Indice
+
+
+/*
+===================
+Como Crear Un Array
+===================
+*/
+
+
+Sintaxis: 
+
+tipo[] nombre = new tipo[tamaño]; 
+
+
+
+
+/* 
+===========================
+Guardar Valores En Un Array
+===========================
+*/
+
+
+Se Realiza Usando El Indice
+
+
+Ejemplo:
+
+numeros[0] = 10; 
+
+
+
+
+/* 
+=========================
+Mostrar Valores Del Array
+=========================
+*/
+
+
+System.out.println(numeros[0]); 
+
+
+
+
+/* 
+================================
+Crear Array Con Valores Directos
+================================ 
+*/
+
+
+
+int [] numeros = {10, 20, 30, 40, 50};  // Crea El Arrar Y Lo Llena Al Mismo Tiempo
+
+
+
+/* 
+=========================
+Recorrer Un Array Con For
+========================
+*/
+
+
+Ejemplo: 
+
+for (int i = 0; i < numeros.length; i++) {
+
+System.out.println(numeros[i]); 
+
+}
+
+
+Length -> Tamaño Del Array
+
+
+
+
+
