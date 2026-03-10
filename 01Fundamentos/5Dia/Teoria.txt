@@ -1,0 +1,87 @@
+/* 
+==================
+Metodos(Funciones)
+==================
+*/
+
+
+
+/* 
+================
+Que Es Un Metodo
+================
+*/
+
+- Un Metodo Es Un Bloque De Codigo Que Realiza Una Tarea Especifica
+
+
+
+/* 
+=====================
+Como Llamar Un Metodo
+=====================
+*/
+
+
+Ejemplo: 
+
+saludar(); 
+
+
+
+/* 
+======================
+Metodos Con Parametros
+======================
+*/
+
+- Los Parametros Permiten Enviar Datos Al Metodo
+
+
+Ejemplo: 
+
+public static void saludar(String nombre){
+
+System.ou.println("Hola " + nombre); 
+
+}
+
+
+/* 
+==================================
+Metodo Que Devuelve Valor (Return)
+==================================
+*/
+
+- Algunos Metodos Calculan Algo Y Devuelven El Resultado
+
+Ejemplo: 
+
+public static int sumar (int a, int b) {
+
+return a + b; 
+
+}
+
+
+
+/* 
+================
+Sintaxis General
+================
+*/
+
+
+public static tipo nombreMetodo(Parametros) {
+
+// Codigo
+
+return valor; 
+
+}
+
+
+
+
+
+
